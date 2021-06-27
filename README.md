@@ -1,2 +1,2 @@
-# _DataStructure
+# _Data_Structure
 # _Sorting_&&_Searching_Algorithms
